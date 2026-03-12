@@ -33,6 +33,7 @@ Links para redes sociais, informações de contato e políticas da loja.
 
 FRONTCP4
 ├── index.html
+├── README.md
 ├── css/
 │   ├── categoria.css
 │   ├── contato.css
