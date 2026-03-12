@@ -69,7 +69,8 @@ README com descrição da aplicação.
 
 Grupo de até 5 integrantes.
 
-Link do repositório e da aplicação:
+Link do repositório: https://github.com/yurifukamachi07-beep/cp-FronteEnd4 
+Aplicação: https://ecogeek.vercel.app/
 
 👨‍🏫 Professor
 Projeto desenvolvido para a disciplina de Engenharia de Software – Prof. Lucas Sousa.
