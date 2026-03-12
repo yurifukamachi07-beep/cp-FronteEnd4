@@ -21,6 +21,21 @@ body {
   color: #b7e4c7;
 }
 
+
+/*BANNER INTERNO*/
+
+.page-banner {
+  background: linear-gradient(rgba(27, 67, 50, 0.80), rgba(45, 106, 79, 0.80));
+  color: white;
+  padding: 70px 0;
+  text-align: center;
+}
+
+.page-banner h1 {
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
 /*TEXTOS E TÍTULOS*/
 .section-title {
   font-weight: 800;
