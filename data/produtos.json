@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Estampas Geek",
+    "categoria": "Camisetas",
+    "descricao": "Algodão orgânico com estampa geek minimalista e toque macio.",
+    "preco": 79.90,
+    "imagem": "img/heroi.webp"
+  },
+  {
+    "id": 2,
+    "nome": "Estampas Anime",
+    "categoria": "Camisetas",
+    "descricao": "Modelos confortáveis com estampa inspirada em cultura pop japonesa.",
+    "preco": 79.90,
+    "imagem": "img/broly.webp"
+  },
+  {
+    "id": 3,
+    "nome": "Estampas Gamer",
+    "categoria": "Camisetas",
+    "descricao": "Bolsa ecológica com visual retrô para o dia a dia ou evento geek.",
+    "preco": 79.90,
+    "imagem": "img/gamer.png"
+  },
+  {
+    "id": 4,
+    "nome": "Moletons Diversos",
+    "categoria": "Moletom",
+    "descricao": "Conforto térmico e tecido reciclado para zerar o frio com estilo.",
+    "preco": 149.90,
+    "imagem": "img/moletom.webp"
+  },
+  {
+    "id": 5,
+    "nome": "Bonés e Gorros variados",
+    "categoria": "Acessórios",
+    "descricao": "Os mais ecológicos e estilizados headwear para o dia a dia.",
+    "preco": 49.90,
+    "imagem": "img/boné.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Ecobags Geek",
+    "categoria": "Acessórios",
+    "descricao": "Bolsa ecológica com visual retrô para o dia a dia ou evento geek.",
+    "preco": 49.90,
+    "imagem": "img/eco.png"
+  }
+]
